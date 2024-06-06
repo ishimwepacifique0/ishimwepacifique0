@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm ISHIMWE Pacifique
 
-<!--
-**ishimwepacifique0/ishimwepacifique0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about web application and mobile development , and I love working on exciting projects that challenge me and help me grow as a developer. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a full-stack software developer / I do Python- django -Reactjs - Nodejs, React Native and Flutter
+🌱 I’m currently learning Java,.NET.
+👯 I’m looking to collaborate on different open source
+🤔 I’m looking for help with computers to help children from vulnerable familie learn coding
+💬 Ask me about Software development career
+📫 How to reach me: ishimwepacifique0@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for visiting my profile!
