@@ -1,8 +1,9 @@
 👋 Hi, I'm ISHIMWE Pacifique
 
-Welcome to my GitHub profile! I'm passionate about web application and mobile development , and I love working on exciting projects that challenge me and help me grow as a developer. 
+Welcome to my GitHub profile! I'm passionate about web application and mobile development , 
+and I love working on exciting projects that challenge me and help me grow as a developer. 
 
-## 🚀 About Me
+#🚀 About Me
 I am a full-stack software developer / I do Python- django -Reactjs - Nodejs, React Native and Flutter
 🌱 I’m currently learning Java,.NET.
 👯 I’m looking to collaborate on different open source
